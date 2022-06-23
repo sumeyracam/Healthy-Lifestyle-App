@@ -1,5 +1,5 @@
 #Graduation Project bu using Flutter and Firebase.
-![DiaryScreen](https://user-images.githubusercontent.com/50549874/172408212-393225a1-9dc3-4117-8882-43b3f133f239.png)
+<img src="drawing.jpg" alt="drawing" width="200"/>
 ![LoginScreen](https://user-images.githubusercontent.com/50549874/172408229-84fd3952-724b-446f-b96c-36c543e02b09.png)
 ![PlansScreen](https://user-images.githubusercontent.com/50549874/172408240-f946c736-bbbd-4153-b104-416b17fe9954.png)
 ![RecipesScreen](https://user-images.githubusercontent.com/50549874/172408283-04b9ceee-a2ba-45c2-9531-44a095f6c107.png)
